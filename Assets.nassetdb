@@ -1,0 +1,12 @@
+{
+    "6c50dd8a-2108-4021-b07b-d6ff8a829634": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Evil Med Assets"
+    },
+    "d5ee0d96-f451-23d0-ce9d-d46265c86fb1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Evil_Med_Thumb.tex.nasset"
+    },
+    "guid": "73838a29-a49e-1127-3492-40fe1286068c"
+}
